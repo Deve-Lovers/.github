@@ -35,10 +35,10 @@ We are students at the poznan university of technology.
 
 # Interesting Collage Projects:
 
-⚡ [music-shop-ui](https://github.com/Deve-Lovers/music-shop-ui)
-⚡ [music-shop-core](https://github.com/Deve-Lovers/music-shop-core)
-⚡ [Client Server IPC Chat](https://github.com/Deve-Lovers/Client-Server-IPC-Chat)
-⚡ [Longest Path Problem](https://github.com/Deve-Lovers/Longest-Path-Problem)
+⚡ [music-shop-ui](https://github.com/Deve-Lovers/music-shop-ui)  
+⚡ [music-shop-core](https://github.com/Deve-Lovers/music-shop-core)  
+⚡ [Client Server IPC Chat](https://github.com/Deve-Lovers/Client-Server-IPC-Chat)  
+⚡ [Longest Path Problem](https://github.com/Deve-Lovers/Longest-Path-Problem)  
 
 # 👔 Job Experience:
 
