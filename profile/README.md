@@ -1,6 +1,6 @@
 ### Develovers
 <hr>
-We are students at the poznan university of technology.
+We are students at the Poznan University Of Technology.
 
 # 💻 Technologies:  
 
