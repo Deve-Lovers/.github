@@ -30,7 +30,7 @@ We are students at the poznan university of technology.
 </div>
 
 
-# Interesting Collage Projects:
+# Interesting College Projects:
 
 ⚡ [music-shop-ui](https://github.com/Deve-Lovers/music-shop-ui)  
 ⚡ [music-shop-core](https://github.com/Deve-Lovers/music-shop-core)  
