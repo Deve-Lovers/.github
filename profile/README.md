@@ -41,9 +41,9 @@ We are students at the Poznan University Of Technology.
 # 👔 Job Experience:
 
 <div>
-<img src="https://www.drupal.org/files/Meant4-symbol.png" title="" alt="" width="45" height="30"/>
-<img src="https://media.licdn.com/dms/image/C560BAQGWhHNoA5PCag/company-logo_200_200/0/1548946585688?e=2147483647&v=beta&t=y0oKyOWv0Jk2mAgJL2Omt19MTIy_d5Af4WoVL6s0cEw" title="" alt="" width="30" height="30"/>
-<img src="https://www.natak.pl/images/SpotkaniaNaTak/logo_partner%C3%B3w_spotkania_na_tak/pcss_logo.png" width="75" height="30"/>
-<img src="https://www.ceric-eric.eu/wp-content/uploads/2020/07/PolishSynchrotronRadiatonSociety.png" width="35" height="30"/>
-<img src="https://domar.com.pl/wp-content/uploads/2020/02/LOGO_DOMAR.png" width="75" height="30"/>
+<img src="https://www.drupal.org/files/Meant4-symbol.png" title="" alt="" width="90" height="60"/>
+<img src="https://media.licdn.com/dms/image/C560BAQGWhHNoA5PCag/company-logo_200_200/0/1548946585688?e=2147483647&v=beta&t=y0oKyOWv0Jk2mAgJL2Omt19MTIy_d5Af4WoVL6s0cEw" title="" alt="" width="60" height="60"/>
+<img src="https://www.natak.pl/images/SpotkaniaNaTak/logo_partner%C3%B3w_spotkania_na_tak/pcss_logo.png" width="150" height="60"/>
+<img src="https://www.ceric-eric.eu/wp-content/uploads/2020/07/PolishSynchrotronRadiatonSociety.png" width="70" height="60"/>
+<img src="https://domar.com.pl/wp-content/uploads/2020/02/LOGO_DOMAR.png" width="150" height="60"/>
 </div>
