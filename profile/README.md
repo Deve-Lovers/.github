@@ -37,6 +37,7 @@ We are students at the Poznan University Of Technology.
 ⚡ [Longest Path Problem](https://github.com/Deve-Lovers/Longest-Path-Problem)  
 ⚡ [brake-assist](https://github.com/Deve-Lovers/brake-assist)  
 ⚡ [Locomotive-Model-3d](https://github.com/Deve-Lovers/Locomotive-Model-3d)
+⚡ [Biotechnology Project](https://github.com/Deve-Lovers/biotechnology-project)
 
 # 👔 Job Experience:
 
