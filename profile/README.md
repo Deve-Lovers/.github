@@ -31,9 +31,9 @@ We are students at the Poznan University Of Technology.
 
 # Interesting College Projects:
 
-Music Shop  
+### Music Shop  
 ⚡ Project for Object Oriented Programming, simple mobile app where you can list products and check their details
-- [frontend](https://github.com/Deve-Lovers/music-shop-ui) is implemented with React Native with [backend](https://github.com/Deve-Lovers/music-shop-core) in Django Rest Framework  
+-> [frontend](https://github.com/Deve-Lovers/music-shop-ui) is implemented with React Native with [backend](https://github.com/Deve-Lovers/music-shop-core) in Django Rest Framework  
 
 ⚡ [Client Server IPC Chat](https://github.com/Deve-Lovers/Client-Server-IPC-Chat)  
 ⚡ [Longest Path Problem](https://github.com/Deve-Lovers/Longest-Path-Problem)  
