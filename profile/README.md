@@ -36,7 +36,7 @@ We are students at the Poznan University Of Technology.
 ⚡ [Client Server IPC Chat](https://github.com/Deve-Lovers/Client-Server-IPC-Chat)  
 ⚡ [Longest Path Problem](https://github.com/Deve-Lovers/Longest-Path-Problem)  
 ⚡ [brake-assist](https://github.com/Deve-Lovers/brake-assist)  
-⚡ [Locomotive-Model-3d](https://github.com/Deve-Lovers/Locomotive-Model-3d)
+⚡ [Locomotive-Model-3d](https://github.com/Deve-Lovers/Locomotive-Model-3d)  
 ⚡ [Biotechnology Project](https://github.com/Deve-Lovers/biotechnology-project)
 
 # 👔 Job Experience:
