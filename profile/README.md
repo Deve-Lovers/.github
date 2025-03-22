@@ -31,13 +31,16 @@ We are students at the Poznan University Of Technology.
 
 # Interesting College Projects:
 
-⚡ [music-shop-ui](https://github.com/Deve-Lovers/music-shop-ui)  
-⚡ [music-shop-core](https://github.com/Deve-Lovers/music-shop-core)  
+Music Shop  
+⚡ Project for Object Oriented Programming, simple mobile app where you can list products and check their details
+- [frontend](https://github.com/Deve-Lovers/music-shop-ui) is implemented with React Native with [backend](https://github.com/Deve-Lovers/music-shop-core) in Django Rest Framework  
+
 ⚡ [Client Server IPC Chat](https://github.com/Deve-Lovers/Client-Server-IPC-Chat)  
 ⚡ [Longest Path Problem](https://github.com/Deve-Lovers/Longest-Path-Problem)  
 ⚡ [brake-assist](https://github.com/Deve-Lovers/brake-assist)  
 ⚡ [Locomotive-Model-3d](https://github.com/Deve-Lovers/Locomotive-Model-3d)  
 ⚡ [Biotechnology Project](https://github.com/Deve-Lovers/biotechnology-project)
+⚡ [WebTap CommunicationApp](https://github.com/Deve-Lovers/sk2-projekt)
 
 # 👔 Job Experience:
 
