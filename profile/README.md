@@ -2,7 +2,6 @@
 We are students at the Poznan University Of Technology.
 
 # 💻 Technologies:  
-<hr>
 
 <div>
 <h4>We mainly use:</h4>
@@ -26,10 +25,9 @@ We are students at the Poznan University Of Technology.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" title="" alt="" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" title="" alt="" width="35" height="35"/>
 </div>
-
+<hr>
 
 # Interesting College Projects:
-<hr>
 
 ### Music Shop  
 :books: Object Oriented Programming  
@@ -72,9 +70,9 @@ We are students at the Poznan University Of Technology.
 :information_source: Communicator for mobile devices, a server implemented using sockets in C, in addition a proxy server implemented in Django and a front-end written in React Native with logo and branding  
 :arrow_right: [source code](https://github.com/Deve-Lovers/sk2-projekt)  
 :computer: C, Python, Django, JS  
+<hr>
 
 # 👔 Work Experience:
-<hr>
 <div>
 <img src="https://www.drupal.org/files/Meant4-symbol.png" title="" alt="" width="90" height="60"/>
 <img src="https://expans.io/wp-content/uploads/2020/10/logo-na-strone.png" title="" alt="" width="170" height="60"/>
