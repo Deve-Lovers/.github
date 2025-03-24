@@ -1,8 +1,8 @@
 ### Develovers
-<hr>
 We are students at the Poznan University Of Technology.
 
 # 💻 Technologies:  
+<hr>
 
 <div>
 <h4>We mainly use:</h4>
@@ -29,6 +29,7 @@ We are students at the Poznan University Of Technology.
 
 
 # Interesting College Projects:
+<hr>
 
 ### Music Shop  
 :books: Object Oriented Programming  
@@ -72,8 +73,8 @@ We are students at the Poznan University Of Technology.
 :arrow_right: [source code](https://github.com/Deve-Lovers/sk2-projekt)  
 :computer: C, Python, Django, JS  
 
-# 👔 Job Experience:
-
+# 👔 Work Experience:
+<hr>
 <div>
 <img src="https://www.drupal.org/files/Meant4-symbol.png" title="" alt="" width="90" height="60"/>
 <img src="https://expans.io/wp-content/uploads/2020/10/logo-na-strone.png" title="" alt="" width="170" height="60"/>
