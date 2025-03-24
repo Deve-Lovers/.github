@@ -43,7 +43,7 @@ We are students at the Poznan University Of Technology.
 :computer: C  
 
 ### Longest Path - Problem Solver
-:books:  Combinatorial Optimization
+:books:  Combinatorial Optimization  
 :information_source: Algorithm implemented in python, solving longest path problem in graphs  
 :arrow_right: [source code](https://github.com/Deve-Lovers/Longest-Path-Problem)  
 :computer: Python  
@@ -67,7 +67,7 @@ We are students at the Poznan University Of Technology.
 :computer: Python  
 
 ### WebTap Communication App
-:books: Computer Networks
+:books: Computer Networks  
 :information_source: Communicator for mobile devices, a server implemented using sockets in C, in addition a proxy server implemented in Django and a front-end written in React Native with logo and branding  
 :arrow_right: [source code](https://github.com/Deve-Lovers/sk2-projekt)  
 :computer: C, Python, Django, JS  
