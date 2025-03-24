@@ -44,19 +44,19 @@ We are students at the Poznan University Of Technology.
 
 ### Longest Path - Problem Solver
 :books:  Combinatorial Optimization
-:information_source: Algorithm implemented in python, solving longest path problem in graphs
-⚡ [source code](https://github.com/Deve-Lovers/Longest-Path-Problem)  
+:information_source: Algorithm implemented in python, solving longest path problem in graphs  
+:arrow_right: [source code](https://github.com/Deve-Lovers/Longest-Path-Problem)  
 :computer: Python  
 
 ### Brake Assist Simulator
 :books: Basics of Automation  
-:information_source: Two-car driving simulator, analysis of braking and acceleration times according to conditions
+:information_source: Two-car driving simulator, analysis of braking and acceleration times according to conditions  
 :arrow_right: [source code](https://github.com/Deve-Lovers/brake-assist)  
 :computer: Python  
 
 ### Locomotive Model Project
 :books: Computer Graphics  
-:information_source: A project representing an accurate moving 3d model of a locomotive
+:information_source: A project representing an accurate moving 3d model of a locomotive  
 :arrow_right: [source code](https://github.com/Deve-Lovers/Locomotive-Model-3d)  
 :computer: C++  
 
@@ -68,7 +68,7 @@ We are students at the Poznan University Of Technology.
 
 ### WebTap Communication App
 :books: Computer Networks
-:information_source: Communicator for mobile devices, a server implemented using sockets in C, in addition a proxy server implemented in Django and a front-end written in React Native with logo and branding
+:information_source: Communicator for mobile devices, a server implemented using sockets in C, in addition a proxy server implemented in Django and a front-end written in React Native with logo and branding  
 :arrow_right: [source code](https://github.com/Deve-Lovers/sk2-projekt)  
 :computer: C, Python, Django, JS  
 
